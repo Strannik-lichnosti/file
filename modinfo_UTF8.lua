@@ -1,5 +1,5 @@
 --Translated BY Strannik, Thx :)
-name = "Драконий рыцарь"
+name = "Рыцарь-Дракон"
 id = "dragonknight"
 description = "V1.8.3 \n 2022.7.27"
 author = "HPMY(rainbow) & DDK223"
@@ -42,9 +42,9 @@ configuration_options =
 		label = "Сложность",
 		options = 
 		{
-			{description = "Новичок", data = "N"},
-			{description = "Воин(по ум.)", data = "G"},
-			{description = "Эксперт", data = "H"}
+			{description = "Легко", data = "N"},
+			{description = "Нормально(по ум.)", data = "G"},
+			{description = "Сложно", data = "H"}
 		},
 		default = "G",
 	},
@@ -63,7 +63,7 @@ configuration_options =
 		label = "Показывать Эффекты",
 		options = 
 		{
-			{description = "Стандарт(по ум.)", data = "0"},
+			{description = "Стандарт", data = "0"},
 			{description = "Всегда", data = "1"}
 		},
 		default = "0",
@@ -89,11 +89,11 @@ configuration_options =
 	},
 	{
 		name = "exp_bar",
-		label = "Exp bar",
+		label = "Шкала опыта",
 		options = 
 		{
-			{description = "по ум.", data = false},
-			{description = "простой ", data = true}
+			{description = "Стандарт", data = false},
+			{description = "Упрощённый", data = true}
 		},
 		default = false,
 	},
@@ -114,7 +114,7 @@ configuration_options =
 		{
 			{description = "Никогда", data = "never"},
 			{description = "Мало", data = "light"},
-			{description = "Стандарт(по ум.)", data = "normal"},
+			{description = "Стандарт", data = "normal"},
 			{description = "Больше", data = "med"},
 			{description = "Много", data = "heavy"}
 		},
@@ -132,7 +132,7 @@ configuration_options =
 	},
 	{
 		name = "autoskill_wm",
-		label = "быстрая перезарядка навыков",
+		label = "быстрая перезарядка\nнавыков",
 		options = 
 		{
 			{description = "Выкл(по ум.)", data = false},
