@@ -33,7 +33,7 @@ configuration_options =
 			{description = "Английский", data = "E"},
 			{description = "Китайский(UTF-8)", data = "C1"},
 			--{description = "Китайский(GBK)", data = "C2"}
-			{description = "русский язык", data = "R"}
+			{description = "Русский", data = "R"}
 		},
 		default = "D",
 	},	

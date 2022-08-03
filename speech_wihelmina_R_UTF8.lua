@@ -1105,7 +1105,7 @@ local speech = {
 		SAPLING =
 		{
 			BURNING = "Он горит!",
-			WITHERED = "Жара повредила его.",
+			WITHERED = "Жара навредила ему.",
 			GENERIC = "Саженцы, которые никогда не вырастут",
 			PICKED = "Оно вырастет.",
 		},
@@ -1132,10 +1132,10 @@ local speech = {
 		{
 			DEAD = "Фу-у-у!",
 			GENERIC = "Я ненавижу пауков.",
-			SLEEPING = "Я ненавижу пауков,даже когда они спят",
+			SLEEPING = "Я ненавижу пауков, даже когда они спят",
 		},
 		SPIDERDEN = "Паучье гнездо",
-		SPIDEREGGSACK = "Надеюсь, пауки не выбегут ....",
+		SPIDEREGGSACK = "Надеюсь, пауки не выбегут....",
 		SPIDERGLAND = "Вкус паука",
 		SPIDERHAT = "Теперь я королева пауков!",
 		SPIDERQUEEN = "Королева???",
@@ -1145,8 +1145,8 @@ local speech = {
 			GENERIC = "Это воин среди пауков.",
 			SLEEPING = "Я должен держаться подальше.",
 		},
-		SPOILED_FOOD = "я не могу есть тухлятину",
-		STATUEHARP = " Грустная скульптура",
+		SPOILED_FOOD = "Я не могу есть тухлятину",
+		STATUEHARP = "Грустная скульптура",
 		STATUEMAXWELL = "Он здесь главный.",
 		STEELWOOL = "Прочный материал",
 		STINGER = "Он выглядит острым.",
@@ -1170,14 +1170,14 @@ local speech = {
 		},
 		TEENBIRD =
 		{
-			GENERIC = "Мой друг-птица среднего роста",
+			GENERIC = "Мой ребенок",
 			HUNGRY = "Мне нужно найти что-нибудь поесть.",
 			STARVING = "Он умирает с голоду.",
 		},
 		TELEBASE =
 		{
 			VALID = "Все идет хорошо",
-			GEMS = "Для этого нужна магия фиолетовых драгоценных камней.",
+			GEMS = "Для этого нужна магия аметистов.",
 		},
 		GEMSOCKET = 
 		{
@@ -1198,7 +1198,7 @@ local speech = {
 		TELESTAFF = "путешествие по миру",
 		TENT = 
 		{
-			GENERIC = "усни и забудь о плохом.",
+			GENERIC = "Усни и забудь о плохом.",
 			BURNT = "Теперь мне негде спать.",
 		},
 		SIESTAHUT = 
@@ -1209,10 +1209,10 @@ local speech = {
 		TENTACLE = "Они лишь ждут пока ты пройдешь мимо...",
 		TENTACLESPIKE = "иногда хорошо иметь собственные шипы.",
 		TENTACLESPOTS = "Я не могу это съесть...",
-		TENTACLE_PILLAR = "Скользкий шест.",
+		TENTACLE_PILLAR = "Скользкий.",
 		TENTACLE_PILLAR_HOLE = "Что в нем?",
 		TENTACLE_PILLAR_ARM = "Маленькие щупальца",
-		TENTACLE_GARDEN = "гигантское щупальце",
+		TENTACLE_GARDEN = "Гигантское щупальце",
 		TOPHAT = "Красивая шляпа",
 		TORCH = "Исследовать неизвестное в темноте",
 		TRANSISTOR = "Как это было сделано?",
@@ -1224,7 +1224,7 @@ local speech = {
 			GENERIC = "Это мой сундук с сокровищами.",
 			BURNT = "Сейчас ты ничего не можешь упаковать.",
 		},
-		TREASURECHEST_TRAP = " Это действительно удобно!",
+		TREASURECHEST_TRAP = "Это действительно удобно!",
 		TREECLUMP = "Как будто кто-то пытается помешать мне куда-то пойти.",
 
 		TRINKET_1 = "Сплавленные шарики",
@@ -1242,8 +1242,8 @@ local speech = {
 		TRINKET_9 = "Просто несколько пуговиц.",
 
 		BISHOP_CHARGE_HIT = "Ой!",
-		TRUNKVEST_SUMMER = "Летние приветствия",
-		TRUNKVEST_WINTER = "Зимние приветствия",
+		TRUNKVEST_SUMMER = "Привет, лето",
+		TRUNKVEST_WINTER = "Привет, зима",
 		TRUNK_COOKED = "Странная еда, для меня",
 		TRUNK_SUMMER = "Слоновий нос",
 		TRUNK_WINTER = "Слоновий нос",
