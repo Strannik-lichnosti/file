@@ -14,7 +14,7 @@ STRINGS.NAMES.LEIF_FIRE = "Огненный энт"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.LEIF_FIRE = "Я не хочу подходить слишком близко." 
 
 STRINGS.NAMES.SCKING = "Король теней"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCKING = "Что за дурной сон!" 
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCKING = "Что за кошмар!" 
 
 STRINGS.NAMES.SCKING_TEST = "Король теней"
 STRINGS.NAMES.SCKING_BABY = "Прислужник тьмы"
@@ -56,7 +56,7 @@ STRINGS.DR_YANG = {
 	},
 
 	WYN = {
-	    "Стань Хорошим ","Теперь Ты Хороший Мальчик",
+	    "Стань Хорошим ", "Теперь Ты Хороший",
 	},
 }
 
@@ -79,11 +79,11 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SHADOWKING = STRINGS.CHARACTERS.GENERIC.D
 
 STRINGS.NAMES.BIGHAMMER = "Большой молот"
 STRINGS.RECIPE_DESC.BIGHAMMER = "Вау"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIGHAMMER = "Немного тяжеловато"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIGHAMMER = "Немного тяжеловат"
 
 STRINGS.NAMES.HALBERD_DW = "Алебарда"
 STRINGS.RECIPE_DESC.HALBERD_DW = "Может нанести значительный ущерб"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD_DW = "Я не хочу, чтобы меня этим ударили."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALBERD_DW = "Не хотел бы я встретить врага с этим."
 
 STRINGS.NAMES.DART_BOOM = "Взрывной дротик"
 STRINGS.RECIPE_DESC.DART_BOOM = "бум!!!"
@@ -102,50 +102,50 @@ STRINGS.RECIPE_DESC.DEBUFFSTAFF = "= ="
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEBUFFSTAFF = "Не очень полезно."
 
 STRINGS.NAMES.RUINSICE = "Тулецитовый ледяной посох"
-STRINGS.RECIPE_DESC.RUINSICE = "Замерзаю !"
+STRINGS.RECIPE_DESC.RUINSICE = "Замри!"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.RUINSICE = "Более холодный."
 
 STRINGS.NAMES.RUINSFIRE = "Тулецитовый огненный посох"
-STRINGS.RECIPE_DESC.RUINSFIRE = "Огонь!"
+STRINGS.RECIPE_DESC.RUINSFIRE = "Гори еще сильнее!"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.RUINSFIRE = "Более горячий"
 
-STRINGS.NAMES.RUINSPURPLE = "Руинный темный посох"
+STRINGS.NAMES.RUINSPURPLE = "Тулецитовый посох тьмы"
 STRINGS.RECIPE_DESC.RUINSPURPLE = "Тьма!"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.RUINSPURPLE = "Он создает черный огонь."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.RUINSPURPLE = "Он создает огонь тьмы."
 
 STRINGS.NAMES.DW_BLACKSTAFF = "Черный Посох"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_BLACKSTAFF = "Специальный посох"
 
 STRINGS.NAMES.MOMSKNIFE = "Мамин нож"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOMSKNIFE = "Это что-то из другого мира."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOMSKNIFE = "Это из другого мира."
 
 STRINGS.NAMES.DAEMONSTAIL = "Хвост демона"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAEMONSTAIL = "Это что-то из другого мира."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DAEMONSTAIL = "Это из другого мира."
 
 STRINGS.NAMES.DW_STOPWATCH = "секундомер"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_STOPWATCH = "Это видимо что-то из другого мира."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_STOPWATCH = "Это из другого мира."
 
 STRINGS.NAMES.PIGMAN_DEAD = "Мертвая свинья"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGMAN_DEAD = "Ужас!!!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGMAN_DEAD = "!!!"
 
 STRINGS.NAMES.SKELETON_HEAD = "Скелет"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKELETON_HEAD = "Ужас!!!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKELETON_HEAD = "!!!"
 
 STRINGS.NAMES.DR_HEAD = "Скелет"
 STRINGS.NAMES.DR_HEAD_HAT = "Скелет"
 STRINGS.NAMES.DR_BODY = "Скелет"
 
 STRINGS.NAMES.SKE_SPEAR = "Скелет"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_SPEAR = "Скелеты с копьем."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_SPEAR = "Скелет с копьем."
 
 STRINGS.NAMES.SKE_BIGHAMMER = "Скелет"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_BIGHAMMER = "Скелеты с молотом."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_BIGHAMMER = "Скелет с молотом."
 
 STRINGS.NAMES.SKE_MF = "Скелет"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_MF = "Скелеты с посохом."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_MF = "Скелет с посохом."
 
 STRINGS.NAMES.SKE_BIG_MF = "Скелет"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_BIG_MF = "Скелеты с большим посохом."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKE_BIG_MF = "Скелет с большим посохом."
 
 STRINGS.NAMES.DW_SKESELLER_NORMAL = "Темный скелет"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SKESELLER_NORMAL = "Это торговец!"
@@ -171,8 +171,8 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SKELETONS = STRINGS.CHARACTERS.GENERIC.DE
 STRINGS.NAMES.TURF_FLOWER = "Цветочный дерн"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FLOWER = "Дерн с цветами"
 
-STRINGS.NAMES.TURF_CHAOS = "Ооо Дерн"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CHAOS = "Дерн с..."
+STRINGS.NAMES.TURF_CHAOS = "Теневой дерн"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CHAOS = "Дерн пропитанный ненавистью"
 
 STRINGS.NAMES.TURF_GREY = "Желтый Дерн"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_GREY = "Золотой дерн"
@@ -202,15 +202,15 @@ STRINGS.NAMES.DW_GHOST_WILSON = "Призрак Уилсона"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_GHOST_WILSON = "Мне жаль..."
 
 STRINGS.NAMES.DW_HOLYMANTLE = "Святая Мантия"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_HOLYMANTLE = "Прими мою боль"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_HOLYMANTLE = "Почувствуй мою боль"
 
 STRINGS.NAMES.DW_SPIDER = "Механический паук"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SPIDER = "Как они работают ?"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SPIDER = "Как они работают?"
 
 STRINGS.NAMES.DW_SPIDER_RUINS = "Тулецитовый механический паук"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SPIDER_RUINS = "Кто их создал ?"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SPIDER_RUINS = "Кто их создал?"
 
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_ICE_IN = "Лед, что там?"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_ICE_IN = "Лед, что он скрывает?"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOMESIGN_BROKEN = "Это выглядит так странно."
 
 STRINGS.NAMES.DW_SPIDERHOUSE = "Руины свиней"
@@ -230,16 +230,16 @@ STRINGS.NAMES.GOLDNUGGET_BLACK = "Черный самородок"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOLDNUGGET_BLACK = "Твердый камень."
 
 STRINGS.NAMES.ROCKET_RAIN = "Дождевая ракета"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_RAIN = "Принеси дождь."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_RAIN = "Принеси мне дождь."
 
 STRINGS.NAMES.ROCKET_LIGHT = "Легкая ракета"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_LIGHT = "Принеси свет."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_LIGHT = "Принеси мне свет."
 
 STRINGS.NAMES.ROCKET_GOLD = "Золотая ракета"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_GOLD = "Принеси золото."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_GOLD = "Принеси мне золото."
 
 STRINGS.NAMES.ROCKET_FIRE = "Огненная ракета "
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_FIRE = "Принеси огонь."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROCKET_FIRE = "Принеси мне огонь."
 
 STRINGS.NAMES.DW_STEELEGG = "Металлическое Яйцо"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_STEELEGG = "Что там внутри?"
@@ -262,10 +262,10 @@ STRINGS.SKE_RISKER_WORDS = {
 "Я не ожидал увидеть здесь живых...",
 "Привет, я был путешественником и пришел сюда, чтобы получше изучить это место.",
 "Но эти мерзкие твари... Эти пауки...",
-"Если ты поможешь мне убить 50 Тулецитовых Механических Пауков, то я найду чем тебя отблагодарить.",
+"Убей 50 Тулецитовых Механических Пауков, и я найду чем тебя отблагодарить.",
 "Здесь очень холодно.",
 "Эти пауки тверже камней. Хорошо, если это камни.",
-"Ты убил",
+"Ты убил их",
 "",
 "Спасибо, возьми это яйцо.",
 "Благодаря тебе мне стало гораздо безопаснее!",
@@ -286,30 +286,30 @@ STRINGS.NAMES.DW_CLA = "Странное Оружие"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_CLA = "Что это?"
 
 STRINGS.NAMES.WALL_BLACKGOLD = "Стена из черного золота"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALL_BLACKGOLD = "Твердые стены."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALL_BLACKGOLD = "Тверже камня."
 
 STRINGS.NAMES.WALL_BLACKGOLD_ITEM = STRINGS.NAMES.WALL_BLACKGOLD
 STRINGS.RECIPE_DESC.WALL_BLACKGOLD_ITEM = STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALL_BLACKGOLD
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALL_BLACKGOLD_ITEM = "Мне нужно найти место, где их можно положить."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.WALL_BLACKGOLD_ITEM = "Невероятно надежно."
 --
 STRINGS.NAMES.AXE_BG = "Топор из черного золота"
-STRINGS.RECIPE_DESC.AXE_BG = "Поместите их в инструмент"
+STRINGS.RECIPE_DESC.AXE_BG = "Инструмент тьмы в моих руках"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.AXE_BG = "Я знаю, как им пользоваться."
 
 STRINGS.NAMES.PICKAXE_BG = "Кирка из черного золота"
-STRINGS.RECIPE_DESC.PICKAXE_BG = "Инструменты тьмы?"
+STRINGS.RECIPE_DESC.PICKAXE_BG = "Инструмент тьмы в моих руках"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.PICKAXE_BG = "Я знаю, как им пользоваться."
 
 STRINGS.NAMES.SHOVEL_BG = "Лопата из черного золота"
-STRINGS.RECIPE_DESC.SHOVEL_BG = "Инструменты тьмы?"
+STRINGS.RECIPE_DESC.SHOVEL_BG = "Инструмент тьмы в моих руках"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.SHOVEL_BG = "Я знаю, как им пользоваться."
 
 STRINGS.NAMES.SPEAR_BG = "Копье из черного золота"
-STRINGS.RECIPE_DESC.SPEAR_BG = "Инструменты тьмы?"
+STRINGS.RECIPE_DESC.SPEAR_BG = "Инструмент тьмы в моих руках"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.SPEAR_BG = "Я знаю, как им пользоваться."
 
 STRINGS.NAMES.TORCH_BG = "Факел тьмы"
-STRINGS.RECIPE_DESC.TORCH_BG = "Инструменты тьмы?"
+STRINGS.RECIPE_DESC.TORCH_BG = "Инструмент тьмы в моих руках"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.TORCH_BG = "Я знаю, как им пользоваться."
 
 STRINGS.NAMES.DOOR_WOOD = "Деревянная Дверь"
@@ -323,7 +323,7 @@ STRINGS.NAMES.DW_PILLS_WHITE = "Снотворное"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_PILLS_WHITE = "Поспи немного."
 
 STRINGS.NAMES.DW_PILLS_BLACK = "Психоделическая таблетка"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_PILLS_BLACK = "Я не думаю, что в этом есть что-то хорошее."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_PILLS_BLACK = "Я не думаю, что от этого есть какая то польза."
 
 STRINGS.NAMES.DW_PILLS_PINK = "Кровоостанавливающее "
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_PILLS_PINK = "Я должен приготовить еще."
@@ -343,7 +343,7 @@ PICKED = "Думаю, нужно подождать какое-то время."
 }
 
 STRINGS.NAMES.DW_MUSHROOM_BLACK_ITEM = "Черный Гриб"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_MUSHROOM_BLACK_ITEM = "Он должен больше готовиться."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_MUSHROOM_BLACK_ITEM = "Его лучше готовить подольше."
 
 STRINGS.NAMES.DW_MUSHROOM_BLACK_ITEM_COOKED = "Запеченный Черный Гриб"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_MUSHROOM_BLACK_ITEM_COOKED = "Он приготовлен идеально."
@@ -382,7 +382,7 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.ICETURRET_ITEM = "Холодно!"
 STRINGS.NAMES.DW_DRAGOON = "Драгун"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DRAGOON = "Он не рыцарь-дракон."
 
-STRINGS.NAMES.DW_DRAGOONDEN = "Логово Драконов"
+STRINGS.NAMES.DW_DRAGOONDEN = "Логово Драгунов"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DRAGOONDEN = "Это не дом Рыцаря-Дракона."
 
 STRINGS.NAMES.HAT_STEEL = "Стальной шлем"
@@ -404,13 +404,13 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_STEEL_G = "Очень солидно?"
 STRINGS.NAMES.AMULET_SKELETON = "Амулет Скелета"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.AMULET_SKELETON = "Создан скелетами."
 
-STRINGS.NAMES.PERD_FIGHTER = "Истребитель Perd"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.PERD_FIGHTER = "Битва и цыпленок..."
+STRINGS.NAMES.PERD_FIGHTER = "Индейка-воин"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PERD_FIGHTER = "Самое сильное существо"
 
-STRINGS.NAMES.DW_PERDEGG = STRINGS.NAMES.TOLUK.."'Яйцо"
+STRINGS.NAMES.DW_PERDEGG = STRINGS.NAMES.TOLUK.."Яйцо"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_PERDEGG = "Интересно, что из него может вылупиться..."
 
-STRINGS.NAMES.NENINPAS = "Nenin Pas"
+STRINGS.NAMES.NENINPAS = "Билет"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.NENINPAS = "Я вообще не знаю, что это такое..."
 
 STRINGS.NAMES.DR_YANG_FLOWER = "Большой Красный Цветок"
@@ -421,39 +421,39 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_YANG_RC = "Это похоже на ка�
 STRINGS.DW_NOTHINGHAPPEND = "Ничего Не Случилось..."
 
 STRINGS.NAMES.DR_YANG_HAT = "Электрический Шлем"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_YANG_HAT = "Это похоже на какой - то шлем..."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_YANG_HAT = "Это похоже на какой-то шлем..."
 
 STRINGS.NAMES.DR_GRAVE = "Могила"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_GRAVE = "Похороненные обиды."
 
-STRINGS.NAMES.DR_TORCH = "Каменная сцена"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_TORCH = "Something Can Be Put In The Above."
+STRINGS.NAMES.DR_TORCH = "Каменный алтарь"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_TORCH = "Сюда можно что-то положить."
 
-STRINGS.NAMES.DR_SPIDER = "??? Паук"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_SPIDER = "Я Не Могу Этого Видеть"
+STRINGS.NAMES.DR_SPIDER = "Невидимый Паук"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DR_SPIDER = "Ты где?"
 
 STRINGS.NAMES.TL_BARREL = "Бочонок с хот-догами"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.TL_BARREL = "Там написано:3 Золотых - 1 Хот-дог!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.TL_BARREL = "Написано:\"3 Золотых - 1 Хот-дог!\""
 
 STRINGS.NAMES.TL_HOTDOG1 = "Жесткий Хот-Дог"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.TL_HOTDOG1 = "Это не то, чего я ожидал..."
 
 STRINGS.NAMES.TL_HOTDOG2 = "Хот-дог"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.TL_HOTDOG2 = "Когда Вы Съедите Хот-Дог, Собака Будет Убита."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.TL_HOTDOG2 = "Мне послышалось будто кто-то скулил"
 
 STRINGS.NAMES.WM_ICECONE = "Ледяная Глыба"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.WM_ICECONE = "Большая Ледяная Глыба"
 
 STRINGS.NAMES.BOOMERANG_WYN = "Бумеранг"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG_WYN = "Бумеранг С Повязкой."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG_WYN = "Мой верный друг."
 
 STRINGS.NAMES.BLACKGOLD_SWORD = "Меч из черного золота"
-STRINGS.RECIPE_DESC.BLACKGOLD_SWORD = "Я умею пользоваться этим"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLACKGOLD_SWORD = "Настолько Острый, Что Может Резать Золото"
+STRINGS.RECIPE_DESC.BLACKGOLD_SWORD = "Надесь он такой же дорогой"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLACKGOLD_SWORD = "Настолько Острый, что может разрубить золото"
 
 STRINGS.NAMES.NAMELESS_SWORD = "Неизвестный"
 STRINGS.RECIPE_DESC.NAMELESS_SWORD = "Этого не должно быть здесь"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.NAMELESS_SWORD = "Имена не имеют значения."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.NAMELESS_SWORD = "Имя не имеет значение."
 
 STRINGS.NAMES.DW_SLURTLE_SLIME = "Белая Слизь"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SLURTLE_SLIME = "Таинственная белая жидкость."
@@ -468,7 +468,7 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_BLACK_SWORD = "Черное лезвие.
 STRINGS.NAMES.DW_MACE = "Булава"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_MACE = "Полон шипов."
 
-STRINGS.NAMES.DW_BURIEDTREASURE = "Знак сокровищ"
+STRINGS.NAMES.DW_BURIEDTREASURE = "Крест"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_BURIEDTREASURE = "Держу пари, там внизу есть что-то интересное."
 
 STRINGS.NAMES.DW_TREASUREMAP = "Карта сокровищ"
@@ -491,7 +491,7 @@ STRINGS.RECIPE_DESC.DW_SAFEHAT = "Степень безопасности дос
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SAFEHAT = "Но я все еще не чувствую себя в безопасности."
 
 STRINGS.NAMES.DW_MONSTERHAT = "Шлем монстра"
-STRINGS.RECIPE_DESC.DW_MONSTERHAT = "Не так уж плохо быть монстром"
+STRINGS.RECIPE_DESC.DW_MONSTERHAT = "Не так уж и плохо быть монстром"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_MONSTERHAT = "Это выглядит пугающе."
 
 STRINGS.NAMES.DW_FUZOU = "Фу Чжоу"
@@ -504,7 +504,7 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLACKGOLD_SWORD_DARK = "Невероятно
 
 STRINGS.NAMES.DW_HERO_SWORD_DARK = "Темный меч"
 STRINGS.RECIPE_DESC.DW_HERO_SWORD_DARK = "Темная\"Справедливость\"!"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_HERO_SWORD_DARK = "Сила героев."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_HERO_SWORD_DARK = "Сила героя."
 
 STRINGS.NAMES.DW_BLACK_SWORD_DARK = "Темный Меч(измененный)"
 STRINGS.RECIPE_DESC.DW_BLACK_SWORD_DARK = "Уловите ритм"
@@ -534,7 +534,7 @@ STRINGS.NAMES.DW_SHADOWCORE_ITEM = "Теневое ядро"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SHADOWCORE_ITEM = "Я не уверен, стоит ли мне его забирать домой."
 
 STRINGS.NAMES.DW_SHADOWCORE = "Теневое ядро"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SHADOWCORE = "Сила теней."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SHADOWCORE = "Сила тьмы."
 
 STRINGS.DW_SHADOW = "Тень"
 STRINGS.NAMES.DW_SHADOWTENTACLE = "Теневое щупальце"
@@ -584,7 +584,7 @@ STRINGS.NAMES.DW_SPIDEREGG = "Яйцо паука"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SPIDEREGG = "Он вылупляется."
 
 STRINGS.NAMES.ICE_SPIDERCAVE = "Трещина"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.ICE_SPIDERCAVE = "Чувствую холод."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ICE_SPIDERCAVE = "Я чувствую холод."
 
 STRINGS.NAMES.ARMOR_BLACKICE = "Ледяная Броня"
 STRINGS.RECIPE_DESC.ARMOR_BLACKICE = "Ненадежная защита."
@@ -592,7 +592,7 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_BLACKICE = "Этого достато�
 
 STRINGS.NAMES.ARMOR_SKE = "Костяная броня"
 STRINGS.RECIPE_DESC.ARMOR_SKE = "Легкая и сильная."
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_SKE = "На это у меня ушло много материалов."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_SKE = "На это я потратил много материалов."
 
 STRINGS.NAMES.DW_ICESPEAR = "Темное ледяное копье"
 STRINGS.RECIPE_DESC.DW_ICESPEAR = "Копье."
@@ -612,10 +612,10 @@ for _,v in pairs(icelist) do
 	STRINGS.NAMES[string.upper(v)] = "Льдышка"
 end
 
-STRINGS.NAMES.DEATHGOD_BULLET_CHARGE = "пуля"
+STRINGS.NAMES.DEATHGOD_BULLET_CHARGE = "Пуля"
 
 STRINGS.NAMES.DW_ICEMOSQUITO = "Ледяной комар"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_ICEMOSQUITO = "Неужели они не боятся холода?"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_ICEMOSQUITO = "Насколько он хрупок?"
 
 STRINGS.NAMES.DW_SKILLSCROLL = "Свиток навыков"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_SKILLSCROLL = "Он записывает специальные навыки."
@@ -665,12 +665,12 @@ STRINGS.RECIPE_DESC.DW_DEATHGOD_W = "Целься, стреляй!"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DEATHGOD_W = "Это внушает мне чувство безопасности."
 
 STRINGS.NAMES.DW_DEATHGOD_B = "Черная смерть"
-STRINGS.RECIPE_DESC.DW_DEATHGOD_B = "поразить врага"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DEATHGOD_B = "Отчаянные нападения."
+STRINGS.RECIPE_DESC.DW_DEATHGOD_B = "Целься, стреляй!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DEATHGOD_B = "Это внушает мне чувство безопасности."
 
 STRINGS.NAMES.DW_DEATHGOD_BULLET = "Черная пуля"
-STRINGS.RECIPE_DESC.DW_DEATHGOD_BULLET = "больше готовиться не плохо"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DEATHGOD_BULLET = "Следи за огнем."
+STRINGS.RECIPE_DESC.DW_DEATHGOD_BULLET = "Мне нужно еще больше!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DEATHGOD_BULLET = "Не забывай следить за их количеством."
 --------------------------------------------------------------------------------
 --arena
 STRINGS.NAMES.DW_ARENABOSS = "Владелец арены"
@@ -681,10 +681,10 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_ARENAFAILURE = "..."
 
 STRINGS.DW_ARENA = {
 	MAIN_TITLE = "Арена",
-	MAIN_BODY = "Вам предстоит сражаться с врагами. Ты победишь если убьешь всех\n Будь осторожен, не покидай арену слишком далеко, иначе тебя сочтут отказавшимся от боя. Не волнуйся, мы постараемся \"из-за всех сил\" обеспечить безопасность вашей жизни.\nПриготовтесь %d %s к битве!",
+	MAIN_BODY = "Тебе предстоит сражаться с врагами. Ты победишь если убьешь всех\n Будь осторожен, не покидай арену слишком далеко,\n иначе тебя сочтут отказавшимся от боя.\n Не волнуйся, мы постараемся \"из-за всех сил\" обеспечить безопасность вашей жизни.\nПриготовтесь %d %s к битве!",
 	START = "Старт",
 	NOTENOUGH = "Кажется у тебя недостаточно крепкие кости",
-	CHOOSE_BODY = "Пожалуйста, выберите сложность()",
+	CHOOSE_BODY = "Пожалуйста, выбери сложность()",
 	CHOOSE_NOVICE = "Новичок",
 	CHOOSE_GENERAL = "Воин",
 	CHOOSE_HARD = "Эксперт",
@@ -719,13 +719,13 @@ STRINGS.DW_ARENA = {
 		HE = "Он",
 		SHE = "Она",
 		NORMAL = {
-			"Убей!","Битва!","Сбей его с ног!","Вон он!!","Я не думаю что %s может выиграть","О боже!","Давай!","Используйте обе руки одновременно!","Я бы выиграл!","Ужас!","Убейте его!","Мне больше всего нравится смотреть рукопашный бой!","Эй ты, Я поддерживаю тебя!","Давай! Давай!","Кто тебя этому научитл?","Боже мой, посмотрите на эту ужасную технику!",
+			"Убей!","ДА!","Сбей его с ног!","Вон он!!","Я не думаю что %s может выиграть","О боже!","Давай!","Используйте обе руки одновременно!","Я бы выиграл!","Ужас!","Убейте его!","Мне больше всего нравится смотреть на рукопашный бой!","Эй, давай, ты сможешь!","Давай! Давай!","Кто тебя этому научил?","Боже мой, посмотрите на эту ужасную технику!",
 		},
 		PLAYERWIN = {
-			"Это невероятно!","%s на самом деле выиграл!","Я заработал много денег, делая ставки!","Почему?!","Разве это не нормально?","Это замечательно!","Фантастика!",
+			"Это невероятно!","%s на самом деле выиграл!","Я заработал много денег","Почему?!","Разве это не нормально?","Это замечательно!","Фантастика!",
 		},
 		PLAYDEATH = {
-			"Что за трус!","Вставай быстрее!","Это такая тактика?","что ты делаешь?!","Я заплатил не за то, чтобы увидеть это!","Это просто смешно!",
+			"Что за трус!","Вставай быстрее!","Это такая тактика?","что ты делаешь?!","Я заплатил не за то, чтобы смотреть на это!","Это просто смешно!",
 		},
 	},
 	OWNERTALK = {
@@ -740,7 +740,7 @@ STRINGS.DW_ARENA = {
 		
 		G_1 = "Бедняга, который борется с наркотиками!",
 		G_3_1 = "Вооружитесь!",
-		G_3_2 = "Их головы не выглядят очень сильными",
+		G_3_2 = "Их головы не выглядят очень крепкими",
 		G_4 = "Будь осторожен с этими шипами!",
 		G_5 = "Два могущественных воина! Это будет лучшая битва!",
 		G_6 = "Я должен подчеркнуть, что эти коробки полны \"хороших вещей\"!",
@@ -758,12 +758,12 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWERPOT = {
 GENERIC = "Я должен что-нибудь посадить.",
 SEEDS = "Я подожду несколько дней.",
 FLOWER = "Выглядит великолепно!",
-FLOWER_EVIL = "Это очень плохо!",
+FLOWER_EVIL = "Зло!",
 RUBBISH = "Я не знаю, почему.",
-FERN = "Слишком странно?",
-LICHEN = "Слишком странно?",
+FERN = "Слишком странно",
+LICHEN = "Слишком странно",
 GRASS = "Я не могу это съесть.",
-CARROT = "Мое достижение!",
+CARROT = "Моя награда!",
 }
 
 STRINGS.NAMES.QGRASS = "Болотное растение"
@@ -772,11 +772,11 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.QGRASS = "Я не могу это съест
 STRINGS.NAMES.DIG_QGRASS = "Болотное растение"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DIG_QGRASS = "Я не могу это съесть."
 --------------------------------------------------------------------------------
-STRINGS.NAMES.BLOODCUP = "Чашка с кровью"
+STRINGS.NAMES.BLOODCUP = "Чаша с кровью"
 STRINGS.RECIPE_DESC.BLOODCUP = "Не пей слишком много."
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOODCUP = "Вкус крови"
 
-STRINGS.NAMES.TELEPORTER_DARK = "Темная Дверь"
+STRINGS.NAMES.TELEPORTER_DARK = "Теневая дверь"
 STRINGS.RECIPE_DESC.TELEPORTER_DARK = "Двигаясь сквозь тень."
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORTER_DARK = "Телепортация"
 
@@ -792,8 +792,8 @@ STRINGS.RECIPE_DESC.CARD_DARK = "Это ненаучно."
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARD_DARK = "Это не наука"
 
 STRINGS.NAMES.DW_CLA_DARK = "Черная мгла"
-STRINGS.RECIPE_DESC.DW_CLA_DARK = "Отрежь все, что ты ненавидишь."
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_CLA_DARK = "Я не могу остановиться ..."
+STRINGS.RECIPE_DESC.DW_CLA_DARK = "Раскромсай все свои проблемы."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_CLA_DARK = "Я не могу остановиться..."
 
 STRINGS.NAMES.BOOK_DARK = "В Тени"
 STRINGS.RECIPE_DESC.BOOK_DARK = "Тьма."
@@ -816,9 +816,9 @@ PINK = "Розовый шприц",
 RED = "Красный шприц",
 YELLOW = "Желтый шприц",
 }
-STRINGS.RECIPE_DESC.DW_NEEDLES = "Можно ввести в тело"
+STRINGS.RECIPE_DESC.DW_NEEDLES = "Можно вколоть"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_NEEDLES = {
-NORMAL = "Я ненавижу все это",
+NORMAL = "Я никогда не любил это",
 BLUE = "Синий шприц",
 GREEN = "Зеленый шприц",
 GREEN2 = "Зеленый шприц",
@@ -876,13 +876,13 @@ STRINGS.NAMES.DW_BERKAND = "Беркано"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_BERKAND = "Беркано!"
 
 STRINGS.NAMES.DW_DAGAZ = "Дагаз"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DAGAZ = "Свет!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_DAGAZ = "Божественный свет!"
 
 STRINGS.NAMES.DW_EHWAZ = "Эваз"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_EHWAZ = "Телепортируйся!"
 
 STRINGS.NAMES.DW_HAGALAZ = "Хагалаз"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_HAGALAZ = "Я могу что-нибудь сломать!"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_HAGALAZ = "Я принесу лишь разрушение этому миру!"
 
 STRINGS.NAMES.DW_JERA = "Йера"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.DW_JERA = "Йера!"
@@ -900,40 +900,40 @@ STRINGS.CHARACTERS.GENERIC.DESCRIBE.STATUEWENDELL = "Эмм..."
 
 STRINGS.NAMES.CHAIN = "Цепь"
 STRINGS.RECIPE_DESC.CHAIN= "..."
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHAIN = Эмм..."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHAIN = "Эмм..."
 
 STRINGS.NAMES.DOLL = "Кукла"
 STRINGS.RECIPE_DESC.DOLL= "..."
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.DOLL = Эмм..."
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.DOLL = "Эмм..."
 STRINGS.CHARACTER_TITLES.wendell = "ПРИВИДЕНИЕ"
 STRINGS.CHARACTER_NAMES.wendell = "Венделл"
                                             
-STRINGS.CHARACTER_DESCRIPTIONS.wendell = "*Слабое существо\n*Было проклято"
-STRINGS.CHARACTER_QUOTES.wendell = "\"Мы все еще друзья ?\""
+STRINGS.CHARACTER_DESCRIPTIONS.wendell = "*Слабый\n*Проклят"
+STRINGS.CHARACTER_QUOTES.wendell = "\"Мы все еще друзья?\""
 
 STRINGS.W_HAUNT = "Преследовать"
 STRINGS.DOLL = "Проклятие"
 STRINGS.W_CANT = "Нет! Я не могу этого сделать!"
 STRINGS.W_TCRAZY = "Слишком безумно!"
-STRINGS.W_DEATH = "К сожалению. Вы можете быть убиты"
+STRINGS.W_DEATH = "К сожалению. Вы не бессмертны"
 
 STRINGS.W_SKILLS = {
 SPIDERJUMP = "Паук-скакун",
 
 BITE = "Острые Зубы",
-BITE_INR = "Следующая атака заставит врага истекать кровью",
+BITE_INR = "Атака наложит на врага эффект кровотечения",
 
 DRINKBLOOD = "Вампиризм",
-DRINKBLOOD_INR = "Пейте кровь врагов\n(Для того чтобы наложить эффект кровотечение)",
+DRINKBLOOD_INR = "Пейте кровь врагов\nНакладывает эффект кровотечения",
 
 LIGHT = "Священный Свет",
-LIGHT_INR = "Света !",
+LIGHT_INR = "Свет!",
 
 SILK = "Плюнь паутиной",
 SILK_INR = "Плюнь паутиной...",
 
-SHIELD = "Indented Shell",
-SHIELD_INR = "Indentation in the shell, and improve the defense force",
+SHIELD = "Щит",
+SHIELD_INR = "Панцырь",
 
 CALL = "Зов королевы пауков",
 CALL_INR = "Призывает дружелюбных пауков (максимум 15)",
@@ -948,14 +948,14 @@ SCK = {
     Shadow_Spikes = "Теневые шипы",
 	Shadow = "Тень",
 	DarkShield = "Темный Щит",
-	DarkTrial = "Темное испытание",
+	DarkTrial = "Испытание тьмы",
 
 	KeyDSB = {
 	    flash = "Вспышка\nСлучайная вспышка\nРассудок:-1",
 		shadowwind = "Теневые шипы\nЗапускает теневой шип\nУрон:50+Уровень*5\nРассудок:-3",
 		shadow = "Тень\nПризывает тень\nРассудок:-2",
 		darkshield = "Теневой щит\nпризывает щит, способный поглощать 500+Уровень*10 Урона\nРассудок:-20",
-		darktrial = "Темное испытание\nЕсли есть темный щит,Снимите Его\nВызывает поглощение щитом урона\nЕсли цель все еще жива,то вы потеряете весь рассудок",
+		darktrial = "Испытание тьмы\nЕсли есть темный щит,Снимите Его\nВызывает поглощение щитом урона\nЕсли цель все еще жива,то вы потеряете весь рассудок",
 		
 		shadowwind_LOCKED = "Разблокируется на 2 ур",
 		shadow_LOCKED = "Разблокируется на 5 ур",
@@ -970,9 +970,9 @@ WYN = {
 	Winding_Bandage = "Липкая повязка",
 	
 	KeyDSB = {
-	    Tough_Bandage = "Жесткая Повязка\nСопротивление следующей атаке\nПлюс:Поглощающение урона(70%*Процент потери здоровья)\nСытость:-3",
+	    Tough_Bandage = "Жесткая Повязка\nСопротивление следующей атаке\nПоглощающение урона: 70% * Процент потери здоровья\nСытость:-3",
 		Heal_Bandage = "Исцеляющая повязка\nЗдоровье:+ 20\nЗдоровье + 1/с на 15с\nСытость:-5",
-		Winding_Bandage = "Наматывающаяся повязка\nУменьшение скорости врагов\nУрон+50% на 3с\nСытость:-2*Количество целей",
+		Winding_Bandage = "Наматывающаяся повязка\nУменьшение скорости врагов\nУрон:+50% на 3с\nСытость:-2 * Количество целей",
 	},
 },
 
@@ -1236,15 +1236,15 @@ STRINGS.RECIPE_DESC.WM_BLACKWING = "Черные Крылья"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.WM_BLACKWING = "Черные Крылья"
 
 STRINGS.NAMES.STAFF_WIHELMINA = "Посох черного дракона"
-STRINGS.RECIPE_DESC.STAFF_WIHELMINA = "Это разрушительно"
-STRINGS.CHARACTERS.GENERIC.DESCRIBE.STAFF_WIHELMINA = "Это...не мое"
+STRINGS.RECIPE_DESC.STAFF_WIHELMINA = "Разрушительно"
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.STFF_WIHELMINA = "Это...не мое"
 
 STRINGS.NAMES.AMULET_WIHELMINA = "Ледяное сердце"
-STRINGS.RECIPE_DESC.AMULET_WIHELMINA = "Сгущающийся красный лед"
+STRINGS.RECIPE_DESC.AMULET_WIHELMINA = "Кровавый кусок льда"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.AMULET_WIHELMINA = "Это...не мое"
 
 STRINGS.NAMES.HAMMER_WIHELMINA = "Ледяной молот"
-STRINGS.RECIPE_DESC.HAMMER_WIHELMINA = "Разрушение льдом"
+STRINGS.RECIPE_DESC.HAMMER_WIHELMINA = "Неворятно разрушительно"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMMER_WIHELMINA = "Это...не мое"
 
 STRINGS.WIHELMINA_START = "На этот раз я не подведу"
@@ -1274,7 +1274,7 @@ STRINGS.DW_DOOR = {
 }
 STRINGS.DW_BLINK = {
 	NORMAL = "Telepoof",
-	SPIKE = "Spike",
+	SPIKE = "Прыжок",
 }
 
 STRINGS.DW_BUY = "Купить"
@@ -1291,8 +1291,8 @@ STRINGS.DW_GODMODE = "Режим Бога"
 STRINGS.DW_HIDDEN = "Невидимость"
 
 STRINGS.ACTIONS.DW_SNIPER = {
-	AIM = "прицеливание",
-	SHOOT = "стрельба",
+	AIM = "Прицелиться",
+	SHOOT = "Стрелять",
 }
 ------------------------------------------------------------------------------------
 STRINGS.DW_SETTING =  {
@@ -1353,8 +1353,8 @@ STRINGS.DW_ACTIVE = {
 	DETERMINATION = {
 		TITLE = "Информация",
 		INTRO = "Нажмите F5, чтобы сохраниться, и F6, чтобы загрузить последнее сохранение\n",
-	    ON = "Вкл",
-		OFF = "Выкл",
+	    ON = "Включен",
+		OFF = "Выключен",
 		CANCEL = "Отмена",	
 	},
 	SCUFFLEMODE = {
@@ -1604,11 +1604,11 @@ STRINGS.DW_ITEMS_INFO = {
 	bleeding = "*Потеря крови",
     poison = "*Отравление",
     healthup = "*Постоянная регенерация\n*Иммунитет к кровотечению\n*Скрытие/Отображение нажатием клавиши \"L\"",
-    PTEC = "*Никаких действий в течение длительного времени\n*Получение половины урона",
+    PTEC = "*Скованность\n*Получение половины урона",
     speeddown = "*Скорость передвижения уменьшена",
     freeze = "*-1% скорость передвижения\n*-0.5% скорости атаки\n*Замораживает на 5с и наносит 100 урона\n*Эффект складывается до 100 раз",
     speedup = "*Скорость передвижения увеличена",
-    fear = "*Скорость потери рассудка увеличена\n*урон уменьшен наполовину\n*35% окаменения на 1-3s при атаке\n*30% шанс войти в состояние контузии",
+    fear = "*Скорость потери рассудка увеличена\n*урон уменьшен наполовину\n*35% шанс окаменения на 1-3s при атаке\n*30% шанс войти в состояние контузии",
     crazy = "*Вы не можете контролировать себя\n*Каждая атака имеет 40% шанс нанести урон себе\nи с вероятностью 50% снять дебафф",
     blind = "*Узкое поле зрения\n*Точность уменьшена",
     hardmode = "*Повеселитесь",
